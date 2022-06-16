@@ -1,8 +1,2 @@
 #!bin/bash
-	rmdir /tmp/my_first_directory # remove the directory
-
-	rm /tmp/my_first_directory # Remove the file
-
-
-
-	mkdir /tmp/my_first_directory/hjs # create the directory
+mkdir /tmp/my_first_directory/ # create the directory
